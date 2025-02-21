@@ -4,7 +4,7 @@ function login()
  let p = pw.value
  if (u=="anh" && p=="12345")
  {
-  window.open("tênlink???.html")
+  window.open("home.html")
   document.getElementById(compiler).style.display="block"
  }
 }
