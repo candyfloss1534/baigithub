@@ -4,19 +4,23 @@ html {
 }
 form
 {
-  
+  color: yellow;
+  font-family: verdana;
 }
 p
 {
-  
+  color: blue;
+  font-family: verdana;
 }
 ol
 {
-
+  color: blue;
+  font-family: verdana
 }
 ul
 {
-
+  color: blue;
+  font-family: verdana
 }
 h1
 {
